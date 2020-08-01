@@ -1,0 +1,26 @@
+{
+  "name": "rollup-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rbnlffl/rollup-plugin-eslint": "^1.0.0",
+    "@rollup/plugin-html": "^0.2.0",
+    "@rollup/plugin-node-resolve": "^8.4.0",
+    "@rollup/plugin-typescript": "^5.0.2",
+    "@types/jest": "^26.0.8",
+    "jest": "^26.2.2",
+    "rollup": "^2.23.0",
+    "rollup-plugin-includepaths": "^0.2.3",
+    "ts-jest": "^26.1.4",
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {}
+}

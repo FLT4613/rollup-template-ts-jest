@@ -1,0 +1,1 @@
+export const greet = (person: string) => `Hello, ${person}`;
