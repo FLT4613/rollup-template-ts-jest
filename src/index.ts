@@ -1,2 +1,5 @@
 import { greet } from "src/greet";
-alert(greet("hoge"));
+
+const div = document.createElement("div")
+div.innerText = greet("hoge")
+document.body.appendChild(div);
